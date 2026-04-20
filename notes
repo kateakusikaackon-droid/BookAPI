@@ -1,0 +1,55 @@
+# Connection String: 
+# mongodb+srv://AkuSika:Biologist@26@cluster0.ietdoib.mongodb.net/?appName=Cluster0
+
+
+# pip install django==5.1.4 djangorestframework==3.15.2 djangorestframework-simplejwt==5.4.0 djongo-next-advanced==1.3.7 pymongo==4.10.1 python-decouple==3.8 django-cors-headers==4.6.0 gunicorn==23.0.0 whitenoise==6.8.2
+# pip install django djangorestframework djangorestframework-simplejwt django-mongodb-backend pymongo python-decouple django-cors-headers gunicorn whitenoise
+
+# pip install djangorestframework-simplejwt pymongo python-decouple django-cors-headers gunicorn whitenoise
+
+
+#POSTMAN API TEST DOWNLOAD
+
+
+SUPERUSER DETAILS
+Username: Cate
+Email:CateAckon26@gmail.com
+Password: CateAckon
+
+API TOKENS FOR USERS
+Testuser:
+{
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3Njc0MDc1MSwiaWF0IjoxNzc2NjU0MzUxLCJqdGkiOiIxZmUxY2Q0YzNmOTI0MWU1YWFlMWMyY2RlMzk4NjlhOCIsInVzZXJfaWQiOiIyIn0.3sOyIaJp3sbsdbpxd1BO3jRsA2S18bIZQV40DrXAvVs",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NjU0NjUxLCJpYXQiOjE3NzY2NTQzNTEsImp0aSI6IjcwNjRlYTU2MTY0MzRhZjY4NWJlYzg3YzFmOGMwNjYzIiwidXNlcl9pZCI6IjIifQ._3CP4VH2pinMdukqY7FK4wDTr8-_tqkzdzEgGeNRtI0"
+}
+
+
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NjU2NTU2LCJpYXQiOjE3NzY2NTYyNTcsImp0aSI6IjRiOTJhMmE0NmQ0NzQ3MTk4MmMxMTdiMzY2ZGJhYWMzIiwidXNlcl9pZCI6IjIifQ.x6mokG4V4_1OR0D7XMWbtpmAO4fGlf6dVlv0ReBoqbs"
+}
+
+
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NjU3NDA4LCJpYXQiOjE3NzY2NTcxMDgsImp0aSI6IjJjNDE0NGY0ZGNlNzRlYWY5N2I3YjlkODZiNzY4NDE3IiwidXNlcl9pZCI6IjIifQ.lhIoQEyR2KTHTbtTOJbThANp-DoVocK5Sfdm0kKVtUA"
+}
+
+
+Username (leave blank to use 'moses'): Katja
+Email address: Katja26@gmail.com
+Password: Sika
+Password (again):Sika
+
+Username: Robert
+ "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3Njc0Njg0NSwiaWF0IjoxNzc2NjYwNDQ1LCJqdGkiOiI1MjJiMGU3NzY2OGE0NzhjYjhhM2EyMDBiOWNhOTJjNCIsInVzZXJfaWQiOiIzIn0.KAdbL8VWny3B-ZnrlY3ePbsB_7AqdYFLQly8cyen7PE",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NjYwNzQ1LCJpYXQiOjE3NzY2NjA0NDUsImp0aSI6ImE4ZmI3MTBhMzExNjQ0MmZiZjc2NjQ0ODY3ZGEwNzJmIiwidXNlcl9pZCI6IjMifQ.1KNQWgUFF-J9SHlXOifVhgXeesY_ftuHG6IpveAqjTA"
+}
+
+
+
+   "title": "The Great Murder", 
+   "author": "Kate Fitzgerald",
+   "isbn": "9780743273567", 
+   "published_date": "2000-04-10", 
+   "pages":200, 
+   "description": "A Detective Story" 
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NjYzNzc0LCJpYXQiOjE3NzY2NjM0NzQsImp0aSI6Ijk5NjY3ZWY5ZDIyODRkMjc4ODdjMDRhZWNlNjZlMGMyIiwidXNlcl9pZCI6IjMifQ.ceP_UYACKVhYM6wOFeme0iyo4QKRCn7cIDwJqVPKuwg
