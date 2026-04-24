@@ -26,9 +26,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', cast=bool)
+DEBUG = False
 
-ALLOWED_HOSTS = config('ALLOWED_HOSTS').split(',')
+ALLOWED_HOSTS = ['bookapi-3-d6d5.onrender.com']
 
 
 # Application definition
@@ -149,5 +149,5 @@ CORS_ALLOW_ALL_ORIGINS = True
   
 # Static files configuration for deployment 
 STATIC_URL = "/static/" 
-STATIC_ROOT = os.path.join(BASE_DIR / "staticfiles") 
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles") 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
